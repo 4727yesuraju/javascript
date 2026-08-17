@@ -2,7 +2,7 @@
 
 ## 1. 📖 Simple English Explanation
 
-JavaScript is a **high-level, dynamically typed programming language** used to make web pages interactive and dynamic.
+JavaScript is a **high-level, interpreted & dynamically typed programming language** used to make web pages interactive and dynamic.
 
 It can run in the **browser** and also on the **server** using environments like Node.js.
 
